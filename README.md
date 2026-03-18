@@ -4,7 +4,7 @@
 This project is a GUI-based Bank Management System developed using Java Swing. It simulates basic banking operations such as deposit, withdrawal, and balance checking through a user-friendly interface.
 
 ## Features
-- User Login Interface
+- User Login & Full Signup Interface
 - Deposit Money
 - Withdraw Money
 - Check Account Balance
