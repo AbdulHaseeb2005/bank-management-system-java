@@ -1,35 +1,51 @@
 # Bank Management System (Java Swing)
 
 ## Overview
-This project is a GUI-based Bank Management System developed using Java Swing. It simulates basic banking operations such as deposit, withdrawal, and balance checking through a user-friendly interface.
+This project is a GUI-based Bank Management System developed using Java Swing. It simulates core banking operations through multiple interactive screens and demonstrates Object-Oriented Programming (OOP) concepts.
 
 ## Features
-- User Login & Full Signup Interface
+- User Authentication (Login & PIN)
+- Account Registration (Multi-step Signup)
 - Deposit Money
 - Withdraw Money
-- Check Account Balance
-- Simple and interactive GUI
+- Fast Cash Option
+- Balance Enquiry
+- Mini Statement
+
+## Application Screens / Modules
+The system is divided into the following GUI components:
+
+- Login
+- Signup
+- Signup2
+- Signup3
+- main_Class (Dashboard)
+- Deposit
+- Withdrawl
+- FastCash
+- BalanceEnquriy
+- Pin
+- mini (Mini Statement)
 
 ## Technologies Used
 - Java
 - Java Swing (GUI)
-- Object-Oriented Programming (OOP)
+- OOP Concepts
 
 ## Learning Context
-This project was built as part of my learning journey during my early semesters.  
-I followed a YouTube tutorial to understand the implementation and concepts, while focusing on learning how the logic works and how GUI-based applications are structured in Java.
+This project was developed during my learning phase by following a YouTube tutorial. The goal was to understand how GUI-based applications are built in Java and how different components interact in a complete system.
 
 ## What I Learned
-- Applying OOP concepts in a real project  
-- Building GUI applications using Java Swing  
-- Handling user input and events  
-- Structuring a complete Java application  
+- Designing multi-screen GUI applications  
+- Event handling in Java Swing  
+- Applying OOP concepts in a real-world scenario  
+- Structuring a complete Java project  
 
 ## Future Improvements
-- Add database integration (MySQL)
-- Implement user authentication with stored data
-- Improve UI/UX design
-- Add transaction history
+- Integrate MySQL database  
+- Improve UI/UX design  
+- Add secure authentication system  
+- Enhance transaction management  
 
 ## Author
 Haseeb Yasir Khan
