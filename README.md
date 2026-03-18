@@ -1,4 +1,3 @@
-# bank-management-system-java
 # Bank Management System (Java Swing)
 
 ## Overview
